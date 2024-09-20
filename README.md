@@ -6,13 +6,13 @@ REQUERIMIENTO:
 
 
 DIAGRAMA ENTIDAD RELACIÓN:
-
+https://lucid.app/lucidchart/12bed451-be80-4a2f-9415-33e2cea5ec5e/edit?beaconFlowId=999D2C7BD9315AED&invitationId=inv_f829cfe5-738d-4bea-8c5f-78fafd27c43f&fromLoginFlow=true&page=0_0#
 
 HISTORIA DE USUARIO:
-
+https://docs.google.com/document/d/16ZmHGIEV7ifjZLUf0xgawjfsCDlNAhgcZSsBpIUHb20/edit
 
 CASOS DE USO:
-
+https://docs.google.com/document/d/16ZmHGIEV7ifjZLUf0xgawjfsCDlNAhgcZSsBpIUHb20/edit
 
 CASOS DE PRUEBA:
 
