@@ -38,10 +38,10 @@ listado.html
 
 BASE DE DATOS:
 phpMyAdmin
-
+https://docs.google.com/document/d/1IUZRYcTiIdVEuZIKx8g8pI7SA8PEz9ZWxjk_HP7viMA/edit
 
 PRUEBAS FUNCIONALES BAJO SELENIUM:
-
+https://docs.google.com/document/d/1tOBMoDLjbm1_ho7w_IaOPTBg7cZSQOhsriVktMtoRuY/edit
 
 
 PRUEBAS DE PERFOMANCE bajo BlazeMeter:
