@@ -13,7 +13,7 @@ HISTORIA DE USUARIO:
 https://docs.google.com/document/d/18Lygx19qRK0uPp_7Pf83jyK9Cl9lL4n4kczI-dgTzio/edit
 
 CASOS DE USO:
-https://docs.google.com/document/d/18Lygx19qRK0uPp_7Pf83jyK9Cl9lL4n4kczI-dgTzio/edit
+
 
 CASOS DE PRUEBA:
 
