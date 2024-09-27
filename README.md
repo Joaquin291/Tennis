@@ -34,6 +34,7 @@ Alta.html
 baja.html
 modificacionbes.html
 listado.html
+https://docs.google.com/document/d/1EWARzIbVdpvHmdw7wEDjviHwpCIkBIQ05jGPLE9l1-s/edit
 
 
 BASE DE DATOS:
